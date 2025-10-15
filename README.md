@@ -1,4 +1,4 @@
-# portofolio-protype---ui-ux
+# portofolio-prototype---ui-ux
 
 README File Description for a UX Designer
 1. Title and Introduction (The Hook)
